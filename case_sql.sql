@@ -22,3 +22,4 @@ SELECT stu_fname, course_count,
     END as custom
 
 FROM students;
+
